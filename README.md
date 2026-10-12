@@ -34,8 +34,9 @@ python forecast_returns.py
 
 ## Результат
 
-См. `report/REPORT.pdf`. Кратко: **MLP и LSTM не бьют baseline** по MSE/MAE.
-Negative result — ожидаемо для дневных цен акций.
+**MLP и LSTM не бьют baseline** по MSE/MAE. Negative result — ожидаемо
+для дневных цен акций: они близки к случайному блужданию, а baseline
+«завтра = сегодня» — сильный конкурент.
 
 ## Стек
 
