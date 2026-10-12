@@ -11,8 +11,6 @@
 | `forecast_returns.py` | Прогноз **log-доходностей** AAPL |
 | `figures/` | Графики по ценам |
 | `figures_returns/` | Графики по доходностям |
-| `report/REPORT.md` | Отчёт в Markdown |
-| `report/REPORT.pdf` | Отчёт в PDF |
 
 ## Ключевые моменты методики
 
